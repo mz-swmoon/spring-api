@@ -1,0 +1,7 @@
+spring:
+  application:
+      name: SpringAPI
+
+
+server:
+  port: ${PORT:8090}
